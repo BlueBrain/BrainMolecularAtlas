@@ -1,5 +1,4 @@
 # BrainMolecularAtlas
-Brain Molecular Atlas
 
 This is the code to reproduce the figures from the manuscript: A Standardized Brain Molecular Atlas: a resource for systems modeling and simulation (under review in Frontiers in Molecular Neuroscience)
 The data processing toolkit (pipeline) code is available from the accompanying repository https://github.com/BlueBrain/MADIP 
