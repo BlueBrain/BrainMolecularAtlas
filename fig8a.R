@@ -1,7 +1,7 @@
 """
 This file is part of BrainMolecularAtlas.
 
-This file make PCA for Fig8a
+This file makes PCA for Fig8a
 
 Copyright (c) 2021 Blue Brain Project/EPFL 
 
