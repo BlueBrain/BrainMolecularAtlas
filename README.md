@@ -26,7 +26,7 @@ Notebooks and scripts are named according to the figures in the paper
 # Citation
 
 When you use the MADIP for your research, please cite the following publication (this includes poster presentations):
-[currently in review] Shichkova P, Coggan JS, Markram H, Keller D (2021) A Standardized Brain Molecular Atlas: a resource for systems modeling and simulation.
+[provisionally accepted] Shichkova P, Coggan JS, Markram H, Keller D (2021) A Standardized Brain Molecular Atlas: a resource for systems modeling and simulation. DOI: 10.3389/fnmol.2021.604559 
 
 
 # Funding & Acknowledgment
