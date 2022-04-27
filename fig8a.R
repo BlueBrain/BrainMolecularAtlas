@@ -3,7 +3,7 @@ This file is part of BrainMolecularAtlas.
 
 This file makes PCA for Fig8a
 
-Copyright (c) 2021 Blue Brain Project/EPFL 
+Copyright (c) 2021-2022 Blue Brain Project/EPFL 
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
